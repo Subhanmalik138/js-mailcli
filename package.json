@@ -1,0 +1,1 @@
+{"bin":{"mailcli":"./src/cli.js"},"description":"A zero-dependency CLI email client: hand-rolled IMAP + SMTP, folders, search, MIME, and an offline message cache.","engines":{"node":">=18"},"keywords":["email","imap","smtp","mime","cli"],"license":"MIT","name":"mailcli","scripts":{"start":"node src/cli.js --help","test":"node --test tests/"},"type":"module","version":"1.0.0"}

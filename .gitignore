@@ -1,0 +1,4 @@
+node_modules/
+.mailcli/
+*.log
+.DS_Store
